@@ -1,9 +1,13 @@
-!![image](https://user-images.githubusercontent.com/98047808/208728617-39bbc2eb-6549-4d8c-b256-07db6003b703.png)
+
+
 
 
 
 <h1 align="center">Hi 👋, I'm Chandan Raxit</h1>
 <h3 align="center">An Enthusiastic Data Scientist from India</h3>
+
+![image](https://user-images.githubusercontent.com/98047808/208729024-caae0b30-7ce1-40fb-84ef-89377498bb2a.png)
+
 
 
 
