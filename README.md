@@ -7,8 +7,9 @@
 <h1 align="center">Hi 👋, I'm Chandan Raxit</h1>
 <h3 align="center">An Enthusiastic Data Scientist from India</h3>
 
+   ![image](https://user-images.githubusercontent.com/98047808/208731011-5fdd8791-f5f7-4a79-8c71-8881424bb71c.png)
 
-
+                                                      
 
 
 
