@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/98047808/208728356-862ceca8-5b1c-4e20-8c64-f629d7eb5683.png)
+
 
 <h1 align="center">Hi 👋, I'm Chandan Raxit</h1>
 <h3 align="center">An Enthusiastic Data Scientist from India</h3>
