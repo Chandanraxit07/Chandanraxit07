@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/98047808/208728356-862ceca8-5b1c-4e20-8c64-f629d7eb5683.png)
+!![image](https://user-images.githubusercontent.com/98047808/208728617-39bbc2eb-6549-4d8c-b256-07db6003b703.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Chandan Raxit</h1>
