@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Chandan Raxit</h1>
 <h3 align="center">An Enthusiastic Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fdata%2Bnotebooks&psig=AOvVaw3BUuSoR7y6x8WbJ_LXa5-1&ust=1671637821118000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjGpKbGiPwCFQAAAAAdAAAAABA_">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanraxit07&label=Profile%20views&color=0e75b6&style=flat" alt="chandanraxit07" /> </p>
 
